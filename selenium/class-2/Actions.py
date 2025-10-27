@@ -27,6 +27,4 @@ time.sleep(2)
 driver.find_element(By.TAG_NAME, "body").click()  # Click elsewhere to close context menu
 time.sleep(2)
 
-
-
 driver.quit()
